@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Forgot Username</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h2>Recover Username</h2>
+  <form onsubmit="recoverUsername(event)">
+    <input type="password" id="recoverPass" placeholder="Enter your password" required><br>
+    <button type="submit">Recover</button>
+    <button type="button" onclick="window.location.href='index.html'">Cancel</button>
+  </form>
+  <p id="resultMsg" style="color: green;"></p>
+  <script src="script.js"></script>
+</body>
+</html>

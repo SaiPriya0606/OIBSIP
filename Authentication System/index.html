@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h2>Login</h2>
+  <form onsubmit="login(event)">
+    <input type="text" id="loginUser" placeholder="Username" required><br>
+    <input type="password" id="loginPass" placeholder="Password" required><br>
+    <label><input type="checkbox" id="rememberMe"> Remember Me</label><br>
+    <button type="submit">Submit</button>
+    <button type="button" onclick="window.location.href='register.html'">Cancel</button><br><br>
+    <a href="forgot-username.html">Forgot Username?</a>|
+    <a href="forgot-password.html">Forgot Password?</a>
+  </form>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,108 @@
+:root {
+  --bg: #ffffff;
+  --text: #000000;
+  --accent: #4b0082;
+  --card: #f2f2f2;
+}
+
+body.dark {
+  --bg: #1e1e2f;
+  --text: #ffffff;
+  --accent: #8e44ad;
+  --card: #2f2f3f;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 700px;
+  margin: 40px auto;
+  background: var(--bg);
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: var(--accent);
+}
+
+#themeToggle {
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  margin: 10px auto;
+  display: block;
+  cursor: pointer;
+}
+
+.input-section {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+input, textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  background: var(--card);
+  color: var(--text);
+}
+
+textarea {
+  resize: vertical;
+  min-height: 60px;
+}
+
+button {
+  padding: 10px;
+  border: none;
+  background-color: var(--accent);
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.task-section h2 {
+  margin-top: 25px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: var(--card);
+  margin-bottom: 10px;
+  padding: 12px;
+  border-radius: 10px;
+  line-height: 1.5;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.task-buttons {
+  margin-top: 10px;
+}
+
+.task-buttons button {
+  margin-right: 5px;
+  font-size: 12px;
+  padding: 5px 10px;
+}

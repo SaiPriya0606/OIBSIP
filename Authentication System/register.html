@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Register</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h2>Register</h2>
+  <form onsubmit="register(event)">
+    <input type="text" id="regUser" placeholder="Username" required><br>
+    <input type="password" id="regPass" placeholder="Password" required><br>
+    <p style="font-size: small; color: gray;">
+      Password must start with a capital letter, include letters, numbers, and symbols.
+    </p>
+    <button type="submit">Submit</button>
+    <button type="button" onclick="window.location.href='index.html'">Cancel</button>
+  </form>
+  <p>Already have an account? <a href="index.html">Login here</a></p>
+  <script src="script.js"></script>
+</body>
+</html>
