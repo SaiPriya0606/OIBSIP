@@ -4,10 +4,10 @@ This repository includes four beginner-friendly and functional web applications 
 
 ---
 
-## 🧮 1. Custom Feature Calculator (Non-themed)
+## 🧮 1. Calculator
 
 ### 📋 Description:
-A functional and extended calculator built using HTML, CSS, and JavaScript. It includes additional features beyond basic arithmetic but does not follow any specific shape or theme.
+A functional and extended calculator built using HTML, CSS, and JavaScript. It includes additional features beyond basic arithmetic .
 
 ### 🔧 Features:
 - Operations: Addition, Subtraction, Multiplication, Division, Modulus, Square root
@@ -48,7 +48,7 @@ An interactive to-do app that allows users to manage tasks with title, descripti
 A simple yet beautiful tribute page created for Albert Einstein. It includes his picture, reasons for admiration, and an inspirational quote with an appealing layout.
 
 ### 🔧 Features:
-- Header and title with your name (Sai Priya)
+- Header and title 
 - Image of Albert Einstein
 - Paragraphs describing why he's admired
 - Inspirational quote block
@@ -98,4 +98,4 @@ A basic client-side login system created with JavaScript. It validates strong pa
 
 ## 🔗 Let’s Connect
 
-You can reach me on [LinkedIn](https://www.linkedin.com) or email for feedback, ideas, or collaborations!
+You can reach me on [LinkedIn](https://www.linkedin.com/in/guttula-sai-priya-798016348/) or email for feedback, ideas, or collaborations!
