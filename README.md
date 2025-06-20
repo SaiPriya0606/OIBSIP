@@ -1,100 +1,101 @@
 # 🌟 Web Development Projects by Sai Priya
 
-This repository includes four beginner-friendly yet feature-rich web applications built using HTML, CSS, and JavaScript. These projects helped me understand frontend web development and DOM manipulation.
+This repository includes four beginner-friendly and functional web applications created using HTML, CSS, and JavaScript. Each project demonstrates a specific real-world use case to help strengthen frontend development skills.
 
 ---
 
-## 🧮 1. Mickey Mouse Themed Calculator
+## 🧮 1. Custom Feature Calculator (Non-themed)
 
 ### 📋 Description:
-A fun Mickey Mouse-themed calculator that performs basic operations with a custom-designed interface. Inspired by cartoon-style design to make math fun!
+A functional and extended calculator built using HTML, CSS, and JavaScript. It includes additional features beyond basic arithmetic but does not follow any specific shape or theme.
 
 ### 🔧 Features:
+- Operations: Addition, Subtraction, Multiplication, Division, Modulus, Square root
 - Buttons: `(` `)` `ans` `del` `clear` `0-9` `%` `√` `*` `/` `+` `-` `.` `=` `ENTER` `→` `AC` `00`
-- `ans` stores previous result
-- Styled with cute round Mickey Mouse theme
+- `ans` stores the previous result
+- Grid-based layout with clear styling
 
-### 🛠️ Technologies:
+### 🛠️ Technologies Used:
 - HTML
-- CSS (Custom theme using grid layout)
-- JavaScript (eval, eventListeners, custom logic)
+- CSS (Grid Layout)
+- JavaScript (DOM, eventListeners, eval logic)
 
 ---
 
 ## ✅ 2. Advanced To-Do Web App
 
 ### 📋 Description:
-A powerful to-do list app that helps users manage tasks with descriptions, deadlines, and completion tracking.
+An interactive to-do app that allows users to manage tasks with title, description, due date, and time. Tasks can be marked as completed or pending and stored permanently using local storage.
 
 ### 🔧 Features:
-- Add task title, description, due date & time
-- View tasks as **Pending** and **Completed**
+- Add task title, description, date & time
+- View tasks in **Pending** and **Completed** sections
 - Edit or delete any task
-- LocalStorage support (tasks stay after page reload)
-- Theme Toggle: 🌞 Light / 🌚 Dark
-- Notification alerts 1 hour before a task is due
+- LocalStorage support (tasks are saved in browser)
+- Light/Dark theme toggle
+- Notification alerts when a task is due within 1 hour
 
-### 🛠️ Technologies:
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- LocalStorage API
-- Notification API
+### 🛠️ Technologies Used:
+- HTML
+- CSS (Responsive UI, Theme support)
+- JavaScript (DOM, LocalStorage, Notification API)
 
 ---
 
 ## 🙏 3. Tribute Page - Albert Einstein
 
 ### 📋 Description:
-A tribute web page dedicated to Albert Einstein with appealing design, responsive layout, and inspirational quotes.
+A simple yet beautiful tribute page created for Albert Einstein. It includes his picture, reasons for admiration, and an inspirational quote with an appealing layout.
 
 ### 🔧 Features:
-- Attractive layout using Google Fonts and gradients
-- Einstein’s image and quotes
-- Description on why I admire him
-- Footer credit: Made by Sai Priya
+- Header and title with your name (Sai Priya)
+- Image of Albert Einstein
+- Paragraphs describing why he's admired
+- Inspirational quote block
+- Google Fonts and gradient background
 
-### 🛠️ Technologies:
+### 🛠️ Technologies Used:
 - HTML
-- CSS
+- CSS (Google Fonts, custom layout)
 
 ---
 
 ## 🔐 4. Login Authentication System
 
 ### 📋 Description:
-A basic login authentication system that validates usernames and strong passwords on the client-side using JavaScript.
+A basic client-side login system created with JavaScript. It validates strong passwords and includes user-friendly features like "remember me", masking, and navigation.
 
 ### 🔧 Features:
-- Password masking (`••••`)
-- Validation: First letter uppercase, includes number, special char
-- "Remember Me" checkbox
-- Forgot Username/Password links
-- Submit and Cancel buttons
+- Password input is masked (`•`)
+- Validates strong password:
+  - Starts with uppercase
+  - Includes alphabets, numbers, special characters
+- "Forgot username/password" links
+- Submit & Cancel buttons
+- "Remember me" checkbox
 
-### 🛠️ Technologies:
+### 🛠️ Technologies Used:
 - HTML
 - CSS
-- JavaScript
+- JavaScript (basic validation logic)
 
 ---
 
 ## 🧑‍💻 Author
 
-> Built with 💙 by **Sai Priya**
+> Built with ❤️ by **Sai Priya**
 
 ---
 
-## 📂 How to Run These Projects
+## 📂 How to Run These Projects Locally
 
-1. Clone the repo or download ZIP.
-2. Navigate to the folder of any project (e.g., `todo-app`)
-3. Open `index.html` in any web browser (Chrome, Edge, Firefox, etc.)
+1. Clone this repo or download ZIP  
+2. Navigate to any project folder (`calculator`, `todo-app`, etc.)
+3. Open `index.html` in your web browser  
 4. Done!
 
 ---
 
-## 💡 Want to Connect?
+## 🔗 Let’s Connect
 
-You can reach out to me on [LinkedIn](https://www.linkedin.com) or email for feedback & collaboration!
-
+You can reach me on [LinkedIn](https://www.linkedin.com) or email for feedback, ideas, or collaborations!
