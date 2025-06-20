@@ -1,74 +1,100 @@
-# 💻 OIBSIP Internship Tasks Repository
+# 🌟 Web Development Projects by Sai Priya
 
-This repository contains the internship tasks completed as part of the Oasis Infobyte **Technical Internship** program. Each folder represents a different task assigned during the internship.
-
----
-
-## 📁 Folder Structure
-
-OIBSIP/
-├── cal/ # Task 1:Calculator
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-│
-├── Tribute/ # Task 2: Tribute Page for Albert Einstein
-│ ├── albert.jpg
-│ ├── index.html
-│ └── style.css
-│
-├── To-Do/ # Task 3: To-Do Web App
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-│
-└── Authentication System/ # Task 4: Login Authentication System
-├── index.html
-├── forgot-password.html
-├── forgot-username.html
-├── register.html
-├── secure.html
-├── style.css
-└── script.js
+This repository includes four beginner-friendly yet feature-rich web applications built using HTML, CSS, and JavaScript. These projects helped me understand frontend web development and DOM manipulation.
 
 ---
 
-## 📝 Task Descriptions
+## 🧮 1. Mickey Mouse Themed Calculator
 
-### ✅ Task 1: Calculator
-A creative calculator UI in the shape of box with number and operator buttons using HTML, CSS, and JavaScript.
+### 📋 Description:
+A fun Mickey Mouse-themed calculator that performs basic operations with a custom-designed interface. Inspired by cartoon-style design to make math fun!
 
-### ✅ Task 2: Tribute Page
-A tribute webpage created for Albert Einstein. Includes an image, biography, and styled with CSS.
+### 🔧 Features:
+- Buttons: `(` `)` `ans` `del` `clear` `0-9` `%` `√` `*` `/` `+` `-` `.` `=` `ENTER` `→` `AC` `00`
+- `ans` stores previous result
+- Styled with cute round Mickey Mouse theme
 
-### ✅ Task 3: To-Do Web App
-A simple app to add daily tasks with features like:
-- Task name
-- Date/time
-- Description
-- Local storage saving
-
-### ✅ Task 4: Login Authentication System
-A front-end login system with:
-- Register and login page
-- Password masking
-- Forgot username/password pages
-- Strong password validation
-- Secure page
+### 🛠️ Technologies:
+- HTML
+- CSS (Custom theme using grid layout)
+- JavaScript (eval, eventListeners, custom logic)
 
 ---
 
-## 📌 How to Run
+## ✅ 2. Advanced To-Do Web App
 
-1. Download or clone this repository.
-2. Open each folder.
-3. Double-click `index.html` to open in your browser.
-4. No server required — it’s all front-end.
+### 📋 Description:
+A powerful to-do list app that helps users manage tasks with descriptions, deadlines, and completion tracking.
+
+### 🔧 Features:
+- Add task title, description, due date & time
+- View tasks as **Pending** and **Completed**
+- Edit or delete any task
+- LocalStorage support (tasks stay after page reload)
+- Theme Toggle: 🌞 Light / 🌚 Dark
+- Notification alerts 1 hour before a task is due
+
+### 🛠️ Technologies:
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- LocalStorage API
+- Notification API
 
 ---
 
-## ✨ Author
+## 🙏 3. Tribute Page - Albert Einstein
 
-**Sai Priya Guttula**
+### 📋 Description:
+A tribute web page dedicated to Albert Einstein with appealing design, responsive layout, and inspirational quotes.
 
-> This repository is part of the official OIBSIP Internship submissions.
+### 🔧 Features:
+- Attractive layout using Google Fonts and gradients
+- Einstein’s image and quotes
+- Description on why I admire him
+- Footer credit: Made by Sai Priya
+
+### 🛠️ Technologies:
+- HTML
+- CSS
+
+---
+
+## 🔐 4. Login Authentication System
+
+### 📋 Description:
+A basic login authentication system that validates usernames and strong passwords on the client-side using JavaScript.
+
+### 🔧 Features:
+- Password masking (`••••`)
+- Validation: First letter uppercase, includes number, special char
+- "Remember Me" checkbox
+- Forgot Username/Password links
+- Submit and Cancel buttons
+
+### 🛠️ Technologies:
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🧑‍💻 Author
+
+> Built with 💙 by **Sai Priya**
+
+---
+
+## 📂 How to Run These Projects
+
+1. Clone the repo or download ZIP.
+2. Navigate to the folder of any project (e.g., `todo-app`)
+3. Open `index.html` in any web browser (Chrome, Edge, Firefox, etc.)
+4. Done!
+
+---
+
+## 💡 Want to Connect?
+
+You can reach out to me on [LinkedIn](https://www.linkedin.com) or email for feedback & collaboration!
+
