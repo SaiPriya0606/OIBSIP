@@ -1,83 +1,112 @@
 # 🌟 Web Development Projects by Sai Priya
 
-This repository includes four beginner-friendly and functional web applications created using HTML, CSS, and JavaScript. Each project demonstrates a specific real-world use case to help strengthen frontend development skills.
+This repository includes four beginner-friendly and fully functional web applications created using HTML, CSS, and JavaScript. Each project showcases a unique use case and helps build frontend development skills.
 
 ---
 
-## 🧮 1. Calculator
+## 🧮 1.Calculator
 
 ### 📋 Description:
-A functional and extended calculator built using HTML, CSS, and JavaScript. It includes additional features beyond basic arithmetic .
+A feature-rich calculator built using HTML, CSS, and JavaScript. It includes advanced buttons and logic.
 
 ### 🔧 Features:
-- Operations: Addition, Subtraction, Multiplication, Division, Modulus, Square root
-- Buttons: `(` `)` `ans` `del` `clear` `0-9` `%` `√` `*` `/` `+` `-` `.` `=` `ENTER` `→` `AC` `00`
-- `ans` stores the previous result
-- Grid-based layout with clear styling
+- Supports: Add, Subtract, Multiply, Divide, Modulus, Square Root
+- Special buttons: `(` `)` `ans` `del` `clear` `AC` `ENTER` `→` `00`
+- `ans` stores the previous answer
+- Clean layout using grid system
 
-### 🛠️ Technologies Used:
+### 🛠️ Technologies:
 - HTML
 - CSS (Grid Layout)
-- JavaScript (DOM, eventListeners, eval logic)
+- JavaScript (DOM Manipulation, eval logic)
 
 ---
 
-## ✅ 2. Advanced To-Do Web App
+## ✅ 2. To-Do Web App
 
 ### 📋 Description:
-An interactive to-do app that allows users to manage tasks with title, description, due date, and time. Tasks can be marked as completed or pending and stored permanently using local storage.
+An interactive and advanced to-do list manager. Users can add tasks with details, set deadlines, mark them complete, and get notifications — all saved using local storage.
 
 ### 🔧 Features:
-- Add task title, description, date & time
-- View tasks in **Pending** and **Completed** sections
-- Edit or delete any task
-- LocalStorage support (tasks are saved in browser)
-- Light/Dark theme toggle
-- Notification alerts when a task is due within 1 hour
+- Add title, description, date, and time
+- View as Pending or Completed
+- Edit/Delete any task
+- Light & Dark theme toggle
+- Notification alerts before deadline
+- Local storage support (data saved even after refresh)
 
-### 🛠️ Technologies Used:
+### 🛠️ Technologies:
 - HTML
-- CSS (Responsive UI, Theme support)
-- JavaScript (DOM, LocalStorage, Notification API)
+- CSS (Responsive design)
+- JavaScript (LocalStorage, Notification API)
 
 ---
 
 ## 🙏 3. Tribute Page - Albert Einstein
 
 ### 📋 Description:
-A simple yet beautiful tribute page created for Albert Einstein. It includes his picture, reasons for admiration, and an inspirational quote with an appealing layout.
+A simple and beautiful tribute page for Albert Einstein with his image, bio, and motivational quote. Created to practice semantic HTML and basic CSS styling.
 
 ### 🔧 Features:
-- Header and title 
-- Image of Albert Einstein
-- Paragraphs describing why he's admired
-- Inspirational quote block
-- Google Fonts and gradient background
+- Appealing header and fonts
+- Inspirational quotes and facts
+- Responsive layout
+- Footer with author credit
 
-### 🛠️ Technologies Used:
+### 🛠️ Technologies:
 - HTML
-- CSS (Google Fonts, custom layout)
+- CSS (Google Fonts, Flexbox)
 
 ---
 
 ## 🔐 4. Login Authentication System
 
 ### 📋 Description:
-A basic client-side login system created with JavaScript. It validates strong passwords and includes user-friendly features like "remember me", masking, and navigation.
+A basic login form with strong password validation and user-friendly options. Useful for understanding JavaScript-based form handling and UI behavior.
 
 ### 🔧 Features:
-- Password input is masked (`•`)
-- Validates strong password:
-  - Starts with uppercase
-  - Includes alphabets, numbers, special characters
-- "Forgot username/password" links
+- Password masking
+- Validation (Starts with uppercase, includes number & symbol)
+- "Remember Me" option
+- Forgot username/password links
 - Submit & Cancel buttons
-- "Remember me" checkbox
 
-### 🛠️ Technologies Used:
+### 🛠️ Technologies:
 - HTML
 - CSS
-- JavaScript (basic validation logic)
+- JavaScript (form validation logic)
+
+---
+
+## 🖼️ Project Screenshots
+
+> 🔔 Make sure to save your screenshots as `.png` or `.jpg` in the same folder or a `/screenshots` folder.
+
+### 🧮 Calculator
+![Calculator Screenshot](calculator.png)
+
+---
+
+### ✅ To-Do App
+![To-Do Screenshot](todo.png)
+
+---
+
+### 🙏 Tribute Page
+![Tribute Screenshot](tribut.png)
+
+---
+
+### 🔐 Login System
+![Login Screenshot](login.png)
+
+---
+
+## 📂 How to Run These Projects
+
+1. Download or clone the repository.
+2. Open each project folder.
+3. Double-click on `index.html` to run it in your browser.
 
 ---
 
@@ -87,15 +116,10 @@ A basic client-side login system created with JavaScript. It validates strong pa
 
 ---
 
-## 📂 How to Run These Projects Locally
+## 📬 Connect with Me
 
-1. Clone this repo or download ZIP  
-2. Navigate to any project folder (`calculator`, `todo-app`, etc.)
-3. Open `index.html` in your web browser  
-4. Done!
+- 💼 [LinkedIn](https://www.linkedin.com/in/guttula-sai-priya-798016348/) 
+- 📧 Email: (sattibabu.gutttula88@gmail.com)
 
 ---
 
-## 🔗 Let’s Connect
-
-You can reach me on [LinkedIn](https://www.linkedin.com/in/guttula-sai-priya-798016348/) or email for feedback, ideas, or collaborations!
