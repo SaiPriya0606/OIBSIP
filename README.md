@@ -80,25 +80,23 @@ A basic login form with strong password validation and user-friendly options. Us
 
 ## 🖼️ Project Screenshots
 
-> 🔔 Make sure to save your screenshots as `.png` or `.jpg` in the same folder or a `/screenshots` folder.
-
 ### 🧮 Calculator
-![Calculator Screenshot](calculator.png)
+![calculator.png](calculator.png)
 
 ---
 
 ### ✅ To-Do App
-![To-Do Screenshot](todo.png)
+![todo.png](todo.png)
 
 ---
 
 ### 🙏 Tribute Page
-![Tribute Screenshot](tribut.png)
+![tribut.png](tribut.png)
 
 ---
 
 ### 🔐 Login System
-![Login Screenshot](login.png)
+![login.png](login.png)
 
 ---
 
