@@ -4,10 +4,10 @@ This repository includes four beginner-friendly and fully functional web applica
 
 ---
 
-## 🧮 1.Calculator
+## 🧮 1.Calculator 
 
 ### 📋 Description:
-A feature-rich calculator built using HTML, CSS, and JavaScript. It includes advanced buttons and logic.
+A feature-rich calculator built using HTML, CSS, and JavaScript. It includes advanced buttons and logic .
 
 ### 🔧 Features:
 - Supports: Add, Subtract, Multiply, Divide, Modulus, Square Root
@@ -22,7 +22,7 @@ A feature-rich calculator built using HTML, CSS, and JavaScript. It includes adv
 
 ---
 
-## ✅ 2. To-Do Web App
+## ✅ 2. Advanced To-Do Web App
 
 ### 📋 Description:
 An interactive and advanced to-do list manager. Users can add tasks with details, set deadlines, mark them complete, and get notifications — all saved using local storage.
@@ -80,23 +80,24 @@ A basic login form with strong password validation and user-friendly options. Us
 
 ## 🖼️ Project Screenshots
 
+
 ### 🧮 Calculator
-![calculator.png](calculator.png)
+![Calculator Screenshot](calculator.png)
 
 ---
 
 ### ✅ To-Do App
-![todo.png](todo.png)
+![To-Do Screenshot](todo.png)
 
 ---
 
 ### 🙏 Tribute Page
-![tribut.png](tribut.png)
+![Tribut Screenshot](tribut.png)
 
 ---
 
 ### 🔐 Login System
-![login.png](login.png)
+![Login Screenshot](login.png)
 
 ---
 
@@ -117,7 +118,7 @@ A basic login form with strong password validation and user-friendly options. Us
 ## 📬 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/guttula-sai-priya-798016348/) 
-- 📧 Email: (sattibabu.gutttula88@gmail.com)
+- 📧 Email: (sattibabu.guttula88@gmail.com)
 
 ---
 
